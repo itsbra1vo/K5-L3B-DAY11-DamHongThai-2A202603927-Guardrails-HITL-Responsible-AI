@@ -6,6 +6,15 @@
 
 ---
 
+## Thông tin nộp bài
+
+- **Họ và tên:** Dam Hong Thai
+- **MSSV:** `2A202603927`
+- **Nhóm/Lớp:** `L3B`
+- **Repository:** [`K5-L3B-DAY11-DamHongThai-2A202603927-Guardrails-HITL-Responsible-AI`](https://github.com/itsbra1vo/K5-L3B-DAY11-DamHongThai-2A202603927-Guardrails-HITL-Responsible-AI)
+
+---
+
 ## Thời lượng
 
 | Phần | Thời gian |
